@@ -1,0 +1,142 @@
+2025/07/20-12:48:17.176 4d1c Reusing MANIFEST C:\Users\cyberpunk tech\Desktop\guesthouse\tokens\guesthouse\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-12:48:17.176 4d1c Recovering log #219
+2025/07/20-12:48:17.204 4d1c Reusing old log C:\Users\cyberpunk tech\Desktop\guesthouse\tokens\guesthouse\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000219.log 
+2025/07/20-12:48:19.255 4d1c Level-0 table #231: started
+2025/07/20-12:48:19.287 4d1c Level-0 table #231: 475004 bytes OK
+2025/07/20-12:48:19.295 4d1c Delete type=0 #219
+2025/07/20-12:48:19.295 4d1c Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/20-12:48:20.695 df4 Compacting 1@1 + 8@2 files
+2025/07/20-12:48:20.756 df4 Generated table #232@1: 47923 keys, 2205180 bytes
+2025/07/20-12:48:20.918 df4 Generated table #233@1: 47394 keys, 2215320 bytes
+2025/07/20-12:48:20.961 df4 Generated table #234@1: 13040 keys, 2166581 bytes
+2025/07/20-12:48:21.003 df4 Generated table #235@1: 5524 keys, 2159761 bytes
+2025/07/20-12:48:21.039 df4 Generated table #236@1: 5506 keys, 2159553 bytes
+2025/07/20-12:48:21.204 df4 Generated table #237@1: 42828 keys, 2244936 bytes
+2025/07/20-12:48:21.376 df4 Generated table #238@1: 75515 keys, 2250584 bytes
+2025/07/20-12:48:21.411 df4 Generated table #239@1: 30818 keys, 567264 bytes
+2025/07/20-12:48:21.411 df4 Compacted 1@1 + 8@2 files => 15969179 bytes
+2025/07/20-12:48:21.415 df4 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/07/20-12:48:21.416 df4 Delete type=2 #221
+2025/07/20-12:48:21.416 df4 Delete type=2 #222
+2025/07/20-12:48:21.416 df4 Delete type=2 #223
+2025/07/20-12:48:21.416 df4 Delete type=2 #224
+2025/07/20-12:48:21.416 df4 Delete type=2 #225
+2025/07/20-12:48:21.416 df4 Delete type=2 #226
+2025/07/20-12:48:21.416 df4 Delete type=2 #227
+2025/07/20-12:48:21.416 df4 Delete type=2 #228
+2025/07/20-12:48:21.417 df4 Delete type=2 #231
+2025/07/20-12:48:44.243 3a44 Level-0 table #241: started
+2025/07/20-12:48:44.305 3a44 Level-0 table #241: 1049337 bytes OK
+2025/07/20-12:48:44.310 3a44 Delete type=0 #230
+2025/07/20-12:48:45.265 df4 Compacting 1@1 + 8@2 files
+2025/07/20-12:48:45.326 df4 Generated table #242@1: 48545 keys, 2205237 bytes
+2025/07/20-12:48:45.395 df4 Generated table #243@1: 47117 keys, 2216442 bytes
+2025/07/20-12:48:45.425 df4 Generated table #244@1: 13670 keys, 2167168 bytes
+2025/07/20-12:48:45.458 df4 Generated table #245@1: 5522 keys, 2159587 bytes
+2025/07/20-12:48:45.491 df4 Generated table #246@1: 5513 keys, 2160119 bytes
+2025/07/20-12:48:45.562 df4 Generated table #247@1: 42457 keys, 2243144 bytes
+2025/07/20-12:48:45.630 df4 Generated table #248@1: 71014 keys, 2249071 bytes
+2025/07/20-12:48:45.665 df4 Generated table #249@1: 51452 keys, 951305 bytes
+2025/07/20-12:48:45.665 df4 Compacted 1@1 + 8@2 files => 16352073 bytes
+2025/07/20-12:48:45.669 df4 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/07/20-12:48:45.669 df4 Delete type=2 #232
+2025/07/20-12:48:45.669 df4 Delete type=2 #233
+2025/07/20-12:48:45.669 df4 Delete type=2 #234
+2025/07/20-12:48:45.669 df4 Delete type=2 #235
+2025/07/20-12:48:45.669 df4 Delete type=2 #236
+2025/07/20-12:48:45.669 df4 Delete type=2 #237
+2025/07/20-12:48:45.669 df4 Delete type=2 #238
+2025/07/20-12:48:45.669 df4 Delete type=2 #239
+2025/07/20-12:48:45.670 df4 Delete type=2 #241
+2025/07/20-12:49:04.073 3a44 Level-0 table #251: started
+2025/07/20-12:49:04.230 3a44 Level-0 table #251: 987870 bytes OK
+2025/07/20-12:49:04.234 3a44 Delete type=0 #240
+2025/07/20-12:49:05.046 df4 Compacting 1@1 + 8@2 files
+2025/07/20-12:49:05.172 df4 Generated table #252@1: 48759 keys, 2205873 bytes
+2025/07/20-12:49:05.289 df4 Generated table #253@1: 47117 keys, 2216442 bytes
+2025/07/20-12:49:05.326 df4 Generated table #254@1: 13667 keys, 2166774 bytes
+2025/07/20-12:49:05.367 df4 Generated table #255@1: 5522 keys, 2159546 bytes
+2025/07/20-12:49:05.398 df4 Generated table #256@1: 5513 keys, 2160060 bytes
+2025/07/20-12:49:05.471 df4 Generated table #257@1: 42454 keys, 2243272 bytes
+2025/07/20-12:49:05.553 df4 Generated table #258@1: 68436 keys, 2245967 bytes
+2025/07/20-12:49:05.631 df4 Generated table #259@1: 72413 keys, 1338904 bytes
+2025/07/20-12:49:05.631 df4 Compacted 1@1 + 8@2 files => 16736838 bytes
+2025/07/20-12:49:05.635 df4 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/07/20-12:49:05.635 df4 Delete type=2 #242
+2025/07/20-12:49:05.635 df4 Delete type=2 #243
+2025/07/20-12:49:05.635 df4 Delete type=2 #244
+2025/07/20-12:49:05.635 df4 Delete type=2 #245
+2025/07/20-12:49:05.636 df4 Delete type=2 #246
+2025/07/20-12:49:05.636 df4 Delete type=2 #247
+2025/07/20-12:49:05.636 df4 Delete type=2 #248
+2025/07/20-12:49:05.636 df4 Delete type=2 #249
+2025/07/20-12:49:05.636 df4 Delete type=2 #251
+2025/07/20-12:49:23.893 3a44 Level-0 table #261: started
+2025/07/20-12:49:24.212 3a44 Level-0 table #261: 997386 bytes OK
+2025/07/20-12:49:24.216 3a44 Delete type=0 #250
+2025/07/20-12:49:24.300 df4 Compacting 1@1 + 8@2 files
+2025/07/20-12:49:25.343 df4 Generated table #262@1: 49184 keys, 2205928 bytes
+2025/07/20-12:49:25.410 df4 Generated table #263@1: 47033 keys, 2216675 bytes
+2025/07/20-12:49:25.446 df4 Generated table #264@1: 13846 keys, 2166529 bytes
+2025/07/20-12:49:25.483 df4 Generated table #265@1: 5522 keys, 2159581 bytes
+2025/07/20-12:49:25.521 df4 Generated table #266@1: 5513 keys, 2159971 bytes
+2025/07/20-12:49:25.690 df4 Generated table #267@1: 42279 keys, 2242349 bytes
+2025/07/20-12:49:25.852 df4 Generated table #268@1: 65133 keys, 2243961 bytes
+2025/07/20-12:49:25.906 df4 Generated table #269@1: 88884 keys, 1644072 bytes
+2025/07/20-12:49:25.906 df4 Compacted 1@1 + 8@2 files => 17039066 bytes
+2025/07/20-12:49:25.909 df4 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/07/20-12:49:25.910 df4 Delete type=2 #252
+2025/07/20-12:49:25.910 df4 Delete type=2 #253
+2025/07/20-12:49:25.910 df4 Delete type=2 #254
+2025/07/20-12:49:25.910 df4 Delete type=2 #255
+2025/07/20-12:49:25.910 df4 Delete type=2 #256
+2025/07/20-12:49:25.910 df4 Delete type=2 #257
+2025/07/20-12:49:25.910 df4 Delete type=2 #258
+2025/07/20-12:49:25.910 df4 Delete type=2 #259
+2025/07/20-12:49:25.910 df4 Delete type=2 #261
+2025/07/20-12:49:44.371 df4 Level-0 table #271: started
+2025/07/20-12:49:44.525 df4 Level-0 table #271: 992556 bytes OK
+2025/07/20-12:49:44.532 df4 Delete type=0 #260
+2025/07/20-12:49:44.537 3a44 Compacting 1@1 + 8@2 files
+2025/07/20-12:49:44.633 3a44 Generated table #272@1: 49370 keys, 2205799 bytes
+2025/07/20-12:49:44.694 3a44 Generated table #273@1: 46968 keys, 2215409 bytes
+2025/07/20-12:49:44.740 3a44 Generated table #274@1: 13952 keys, 2167919 bytes
+2025/07/20-12:49:44.771 3a44 Generated table #275@1: 5522 keys, 2159564 bytes
+2025/07/20-12:49:44.799 3a44 Generated table #276@1: 5513 keys, 2159889 bytes
+2025/07/20-12:49:44.904 3a44 Generated table #277@1: 42198 keys, 2241764 bytes
+2025/07/20-12:49:44.959 3a44 Generated table #278@1: 62472 keys, 2239506 bytes
+2025/07/20-12:49:45.058 3a44 Generated table #279@1: 109905 keys, 2032227 bytes
+2025/07/20-12:49:45.058 3a44 Compacted 1@1 + 8@2 files => 17422077 bytes
+2025/07/20-12:49:45.062 3a44 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/07/20-12:49:45.063 3a44 Delete type=2 #262
+2025/07/20-12:49:45.063 3a44 Delete type=2 #263
+2025/07/20-12:49:45.063 3a44 Delete type=2 #264
+2025/07/20-12:49:45.063 3a44 Delete type=2 #265
+2025/07/20-12:49:45.063 3a44 Delete type=2 #266
+2025/07/20-12:49:45.063 3a44 Delete type=2 #267
+2025/07/20-12:49:45.063 3a44 Delete type=2 #268
+2025/07/20-12:49:45.063 3a44 Delete type=2 #269
+2025/07/20-12:49:45.063 3a44 Delete type=2 #271
+2025/07/20-12:49:52.004 df4 Level-0 table #281: started
+2025/07/20-12:49:52.039 df4 Level-0 table #281: 1067402 bytes OK
+2025/07/20-12:49:52.161 df4 Delete type=0 #270
+2025/07/20-12:49:53.037 df4 Compacting 1@1 + 8@2 files
+2025/07/20-12:49:53.103 df4 Generated table #282@1: 50102 keys, 2206776 bytes
+2025/07/20-12:49:53.168 df4 Generated table #283@1: 46875 keys, 2215843 bytes
+2025/07/20-12:49:53.228 df4 Generated table #284@1: 14596 keys, 2167869 bytes
+2025/07/20-12:49:53.274 df4 Generated table #285@1: 5522 keys, 2159584 bytes
+2025/07/20-12:49:53.325 df4 Generated table #286@1: 5514 keys, 2159989 bytes
+2025/07/20-12:49:53.401 df4 Generated table #287@1: 41664 keys, 2240608 bytes
+2025/07/20-12:49:53.479 df4 Generated table #288@1: 59181 keys, 2238501 bytes
+2025/07/20-12:49:53.572 df4 Generated table #289@1: 121655 keys, 2251384 bytes
+2025/07/20-12:49:53.572 df4 Compacted 1@1 + 8@2 files => 17640554 bytes
+2025/07/20-12:49:53.585 df4 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/07/20-12:49:53.585 df4 Delete type=2 #272
+2025/07/20-12:49:53.585 df4 Delete type=2 #273
+2025/07/20-12:49:53.585 df4 Delete type=2 #274
+2025/07/20-12:49:53.585 df4 Delete type=2 #275
+2025/07/20-12:49:53.586 df4 Delete type=2 #276
+2025/07/20-12:49:53.586 df4 Delete type=2 #277
+2025/07/20-12:49:53.586 df4 Delete type=2 #278
+2025/07/20-12:49:53.586 df4 Delete type=2 #279
+2025/07/20-12:49:53.586 df4 Delete type=2 #281

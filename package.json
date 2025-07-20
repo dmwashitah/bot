@@ -1,4 +1,7 @@
 {
+  "build": "./render-build.sh",
+  "build": "echo 'No build step needed'"
+  "start": "node index.js"
   "name": "whatsapp-booking-bot",
   "version": "1.0.0",
   "description": "Umziki Way Guesthouse WhatsApp Booking Bot",
@@ -10,8 +13,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "venom-bot": "^5.0.0",
+    "@puppeteer/browsers": "^2.10.6",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "dotenv": "^16.0.3"
+    "puppeteer": "^24.14.0",
+    "venom-bot": "^5.0.0"
   }
 }

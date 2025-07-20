@@ -1,0 +1,28 @@
+2025/07/20-12:51:59.690 8d0 Reusing MANIFEST C:\Users\cyberpunk tech\Desktop\guesthouse\tokens\guesthouse\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-12:51:59.690 8d0 Recovering log #280
+2025/07/20-12:51:59.739 8d0 Reusing old log C:\Users\cyberpunk tech\Desktop\guesthouse\tokens\guesthouse\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000280.log 
+2025/07/20-12:52:01.293 20bc Level-0 table #292: started
+2025/07/20-12:52:01.321 20bc Level-0 table #292: 743725 bytes OK
+2025/07/20-12:52:01.328 20bc Delete type=0 #280
+2025/07/20-12:52:01.329 2dd0 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/20-12:52:02.663 2dd0 Compacting 1@1 + 8@2 files
+2025/07/20-12:52:02.821 2dd0 Generated table #293@1: 50183 keys, 2206969 bytes
+2025/07/20-12:52:03.170 2dd0 Generated table #294@1: 46783 keys, 2216507 bytes
+2025/07/20-12:52:03.228 2dd0 Generated table #295@1: 14812 keys, 2169367 bytes
+2025/07/20-12:52:03.278 2dd0 Generated table #296@1: 5524 keys, 2159701 bytes
+2025/07/20-12:52:03.336 2dd0 Generated table #297@1: 5512 keys, 2159991 bytes
+2025/07/20-12:52:03.462 2dd0 Generated table #298@1: 41520 keys, 2239955 bytes
+2025/07/20-12:52:03.569 2dd0 Generated table #299@1: 57025 keys, 2235567 bytes
+2025/07/20-12:52:03.980 2dd0 Generated table #300@1: 122665 keys, 2275583 bytes
+2025/07/20-12:52:04.006 2dd0 Generated table #301@1: 14298 keys, 263961 bytes
+2025/07/20-12:52:04.006 2dd0 Compacted 1@1 + 8@2 files => 17927601 bytes
+2025/07/20-12:52:04.013 2dd0 compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/07/20-12:52:04.014 2dd0 Delete type=2 #282
+2025/07/20-12:52:04.014 2dd0 Delete type=2 #283
+2025/07/20-12:52:04.014 2dd0 Delete type=2 #284
+2025/07/20-12:52:04.014 2dd0 Delete type=2 #285
+2025/07/20-12:52:04.015 2dd0 Delete type=2 #286
+2025/07/20-12:52:04.015 2dd0 Delete type=2 #287
+2025/07/20-12:52:04.015 2dd0 Delete type=2 #288
+2025/07/20-12:52:04.015 2dd0 Delete type=2 #289
+2025/07/20-12:52:04.015 2dd0 Delete type=2 #292
