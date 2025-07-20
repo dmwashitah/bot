@@ -1,7 +1,7 @@
 node_modules
 npm-debug.log
 Dockerfile
-.dockerignore
+render.yaml
+tokens
 .git
 .gitignore
-render.yaml

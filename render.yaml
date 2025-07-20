@@ -1,6 +1,9 @@
 services:
   - type: web
-    name: whatsapp-booking-bot
+    name: mathanda-whatsapp-bot
     env: docker
     plan: free
     autoDeploy: true
+git add .
+git commit -m "Render deployment setup"
+git push origin main
